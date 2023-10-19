@@ -26,7 +26,8 @@ If you add another peer to the list, you must first execute `docker-compose down
 
 ### Connect a WireGuard client 
 
-#### iPhone/Samsung
+#### Official WireGuard Clients
+Works for OSX/iOS/Samsung
 1. I installed the official WireGuard client from the respective App Store
 2. I clicked on adding a tunnel using `Create from QR Code`
 3. I scanned the QR code from the designated iphone `${PWD}/config/peer_[..]` folder
